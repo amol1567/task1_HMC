@@ -8,5 +8,4 @@ print `free -m`;
 print `ifconfig`;
 ?>
 </pre>
-</body>  
-</html> 
+
